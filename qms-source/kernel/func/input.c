@@ -1,10 +1,4 @@
-/* This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
- * If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/. */
-
-// kernel/func/input.c
 #include "input.h"
-
-// PS/2 клавиатура
 
 static int shift_pressed = 0;
 static int ctrl_pressed = 0;
